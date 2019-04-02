@@ -1,0 +1,29 @@
+{
+  "name": "javascript_wheels",
+  "version": "1.0.0",
+  "description": "wheels for javascript",
+  "main": "index.js",
+  "directories": {
+    "test": "wheels for javascript"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason-Bai/javascript_wheels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason-Bai/javascript_wheels/issues"
+  },
+  "homepage": "https://github.com/Jason-Bai/javascript_wheels#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "mocha": "^6.0.2"
+  }
+}
